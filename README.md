@@ -8,4 +8,6 @@ I used a [Rebel Tri-Star CoolBase 705 lm](http://www.luxeonstar.com/cool-white-5
 
 Currently you can only specify an on and off time which will dim the LED in/out at these times. Eventually you will be able to specify your location (lon/lat) to which it will calculate the sunrise / sunset times automatically.
 
-Will link to a blog post shortly showing the actual setup / wiring.
+~~Will link to a blog post shortly showing the actual setup / wiring.~~
+
+Blog post explaining a bit more [here](http://davidmaitland.me/2014/05/simple-arduino-led-grow-lamp/).
